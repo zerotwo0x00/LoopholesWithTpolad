@@ -1,2 +1,2 @@
-# LoopholesWithRabbit
+# 简单记录挖到的漏洞
 - 一些漏洞挖掘的report
